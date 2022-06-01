@@ -1,0 +1,10 @@
+airplane
+foot
+banana
+bus
+bush
+ambulance
+helicopter
+backpack
+alarm clock
+aircraft carrier
